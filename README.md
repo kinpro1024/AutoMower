@@ -1,5 +1,5 @@
 # AutoMower
-An Automatic Lawnmower designed in TinkerCAD for a proof-of-concept.
+An Automatic Lawnmower designed in TinkerCAD as a proof-of-concept.
 
 Videos are embedded in the PDF but if they do not open, here are the Demonstrations and Simulations: https://drive.google.com/drive/folders/1KR5A0xvFXXt9HIm-OY9BTEFk89MeD-P3?usp=sharing
 
